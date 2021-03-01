@@ -54,14 +54,11 @@ body{
 
 #title-two{
   background-color: #C14543;
+  color: white;
 }
 
 #title-three{
   background-color: #E5D198;
-}
-
-#beef{
-  font-color:"white";
 }
 
 /* Simple Responsive Framework. */
