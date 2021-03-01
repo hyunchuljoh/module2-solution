@@ -5,7 +5,7 @@
 }
 
 body{
-  font-family: 'Lato', sans-serif;  
+  font-family: sans-serif;  
 }
 
 .row{
@@ -58,6 +58,10 @@ body{
 
 #title-three{
   background-color: #E5D198;
+}
+
+#beef{
+  font-color:"white"
 }
 
 /* Simple Responsive Framework. */
